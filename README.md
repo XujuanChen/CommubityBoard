@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Favorite Restaurants*
 
-Submitted by: **Xujuan Chene**
+Submitted by: **Xujuan Chen**
 
 This web app: **This app is a collection of my favorite restraurants in New York.**
 
